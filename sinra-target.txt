@@ -1,0 +1,23 @@
+TARGET
+
+A. Halaman Admin
+- CRUD menu admin
+- CRUD menu guru
+- CRUD menu murid
+- CRUD menu mapel
+- CRUD menu kelas
+- CRUD menu kelas-siswa
+
+B. Halaman Guru
+- Bisa bedakan menu nilai dan laporan nilai diakses oleh guru mapel atau guru walikelas
+- CRUD menu nilai
+- CRUD menu laporan nilai
+- Membuat laporan nilai yang bisa langsung bentuk .pdf sehingga bisa di cetak 
+- CRUD menu absensi
+- Membuat absensi bisa langsung bentuk .pdf sehingga bisa di cetak
+
+B. Halaman Murid
+- Membuat halaman nilai yang hanya bisa Read saja sesuai dengan nilai murid yang mengakses
+- Read menu nilai
+- CRUD menu absensi
+- Membuat absensi bisa langsung bentuk .pdf sehingga bisa di cetak
